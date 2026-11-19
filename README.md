@@ -5,6 +5,7 @@
 <img width="1365" height="768" alt="IMS1dNQPPsAQA" src="https://github.com/user-attachments/assets/c7ea0c1b-33cf-400d-94ae-91f5b9fe864b" />
 
 ## YouTube
+[YouTube チャンネル](https://www.youtube.com/@ringo7pie)
 [YouTube 動画](https://www.youtube.com/watch?v=dSyVj8uGO6Y&t=2s)
 
 ## ダウンロード
