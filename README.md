@@ -11,6 +11,9 @@
 ## ダウンロード
 **[DemonCrown-0.1.0-alpha-win64-setup.exe（インストーラー・709 MB）](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe)**
 
+## Demon of the Crown リポジトリ
+[Demon of the Crown リポジトリ](https://github.com/ringo7pie/demoncrown)
+
 ## 日本語
 
 インディーゲーム開発などしています。
