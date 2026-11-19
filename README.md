@@ -1,5 +1,23 @@
 # ringo7pie
 
+# Demon of the Crown（デーモン・クラウン）― アルファテスト版
+
+<img width="1365" height="768" alt="IMS1dNQPPsAQA" src="https://github.com/user-attachments/assets/c7ea0c1b-33cf-400d-94ae-91f5b9fe864b" />
+
+## YouTube
+[YouTube 動画](https://www.youtube.com/watch?v=dSyVj8uGO6Y&t=2s)
+
+## ダウンロード
+**[DemonCrown-0.1.0-alpha-win64-setup.exe（インストーラー・709 MB）](https://github.com/ringo7pie/demoncrown/releases/download/v0.1.0-alpha/DemonCrown-0.1.0-alpha-win64-setup.exe)**
+
+## 日本語
+
+インディーゲーム開発などしています。
+AI（ChatGPT・Claude Code）に、実際のプロジェクトを安全に扱わせるための道具を作っています。
+ChatGPT には承認したものだけを読ませ、Claude Code には確認した計画だけを実装させ、結果は自己試験で確かめます。
+Windows と Ubuntu の両方で動くこと、1 枚の GPU でローカル AI を動かして測ることにも取り組んでいます。
+
+
 **I build tools that let AI assistants work on real projects safely.**
 ChatGPT reads only what I approve, Claude Code implements what I review, and self-tests decide whether it worked.
 
@@ -20,9 +38,3 @@ Windows and Ubuntu · Node.js · PowerShell 7 · Python · C++/Qt · Lua · loca
 - **Plan, implement, verify.** I plan in ChatGPT, implement with Claude Code, and keep every change behind self-tests that run in CI.
 - **Facts next to the code.** Each project keeps a small knowledge base of verified facts (environment limits, procedures, pitfalls), so the next session starts from what is true.
 - **Safe to publish.** Pinned and verified dependencies, upstream licenses checked, and no private data in public repositories.
-
-## 日本語
-
-AI（ChatGPT・Claude Code）に、実際のプロジェクトを安全に扱わせるための道具を作っています。
-ChatGPT には承認したものだけを読ませ、Claude Code には確認した計画だけを実装させ、結果は自己試験で確かめます。
-Windows と Ubuntu の両方で動くこと、1 枚の GPU でローカル AI を動かして測ることにも取り組んでいます。
